@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wspecht3117
 - 👀 I’m interested in Cloud DevOps
-- 🌱 I’m currently learning Javascript and Bash
+- 🌱 I’m currently learning Javascript/Python/Bash.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
